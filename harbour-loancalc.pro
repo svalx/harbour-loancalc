@@ -27,8 +27,7 @@ DISTFILES += qml/harbour-loancalc.qml \
     translations/*.ts \
     harbour-loancalc.desktop \
     README.md \
-    .gitignore \
-    LICENSE
+    .gitignore
 
 SAILFISHAPP_ICONS = 86x86 108x108 128x128 172x172
 
